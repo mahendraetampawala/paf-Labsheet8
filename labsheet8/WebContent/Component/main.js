@@ -9,7 +9,6 @@ $(document).ready(function()
 });
 $(document).on("click", "#btnSave", function(event)
 {
-//
 
  	$("#alertSuccess").text("");
 	$("#alertSuccess").hide();
